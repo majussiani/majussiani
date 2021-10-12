@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**majussiani/majussiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ## Hello people, my name is Mário Antônio Jussiani, I am software engineer!
 <div align="center">
   <a href="https://github.com/majussiani">
